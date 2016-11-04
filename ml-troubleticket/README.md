@@ -5,6 +5,8 @@ A short introduction of this app could easily go here.
 
 ## Prerequisites
 
+# This readme is not complete. Do not follow yet as this is still in development
+
 You will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
